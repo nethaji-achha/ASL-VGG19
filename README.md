@@ -1,4 +1,8 @@
 # ASL (American Sign Language) detection using VGG19
+
+In this project our  main project objective is to detect the American sign language alphabets Using Artificial Intelligence. In this we used Convolution Neural Network, CNN is a class of Artificial Neural Network ( ANN ), most commonly applied to analyse visual images. In this project we have used VGG19 a 19 layer architecture CNN model, Python GUI, Tensor flow, Numpy, Pandas.  
+
+
 ![image](https://user-images.githubusercontent.com/62921263/175828790-2797dca4-ab5f-4eaf-8847-b6fec0460f23.png)
 ![image](https://user-images.githubusercontent.com/62921263/175828794-6eae7430-1fab-4499-a415-cb99fcb26bb1.png)
 ![image](https://user-images.githubusercontent.com/62921263/175828801-ee5e77a1-4a5b-4e3e-8918-de76a390afd0.png)
